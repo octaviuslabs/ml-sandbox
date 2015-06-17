@@ -10,7 +10,7 @@ Boot up a remote system, copy the repo and run the setup script to install all r
 ```
 git clone https://github.com/octaviuslabs/ml-sandbox.git
 cd ml-sandbox
-./scripts/setup.sh
+sudo ./scripts/setup.sh
 ```
 
 ### Running The Server
