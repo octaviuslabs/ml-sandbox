@@ -15,7 +15,7 @@ sudo ./scripts/setup.sh
 
 ### Running The Server
 ```
-ml-sandbox/scripts/server.sh
+sudo ml-sandbox/scripts/server.sh
 ```
 
 ### Connecting From Local Machine
